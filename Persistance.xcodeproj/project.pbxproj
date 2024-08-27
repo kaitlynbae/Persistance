@@ -11,6 +11,8 @@
 		4AD2B9162C7E1C6B00F2CC2F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AD2B9152C7E1C6B00F2CC2F /* ContentView.swift */; };
 		4AD2B9182C7E1C6C00F2CC2F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4AD2B9172C7E1C6C00F2CC2F /* Assets.xcassets */; };
 		4AD2B91B2C7E1C6C00F2CC2F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4AD2B91A2C7E1C6C00F2CC2F /* Preview Assets.xcassets */; };
+		4AD2B9222C7E1D3E00F2CC2F /* ToDoList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AD2B9212C7E1D3E00F2CC2F /* ToDoList.swift */; };
+		4AD2B9242C7E1D4C00F2CC2F /* CollegeList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AD2B9232C7E1D4C00F2CC2F /* CollegeList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		4AD2B9152C7E1C6B00F2CC2F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4AD2B9172C7E1C6C00F2CC2F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4AD2B91A2C7E1C6C00F2CC2F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4AD2B9212C7E1D3E00F2CC2F /* ToDoList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoList.swift; sourceTree = "<group>"; };
+		4AD2B9232C7E1D4C00F2CC2F /* CollegeList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollegeList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +56,8 @@
 			isa = PBXGroup;
 			children = (
 				4AD2B9132C7E1C6B00F2CC2F /* PersistanceApp.swift */,
+				4AD2B9212C7E1D3E00F2CC2F /* ToDoList.swift */,
+				4AD2B9232C7E1D4C00F2CC2F /* CollegeList.swift */,
 				4AD2B9152C7E1C6B00F2CC2F /* ContentView.swift */,
 				4AD2B9172C7E1C6C00F2CC2F /* Assets.xcassets */,
 				4AD2B9192C7E1C6C00F2CC2F /* Preview Content */,
@@ -138,7 +144,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				4AD2B9162C7E1C6B00F2CC2F /* ContentView.swift in Sources */,
+				4AD2B9222C7E1D3E00F2CC2F /* ToDoList.swift in Sources */,
 				4AD2B9142C7E1C6B00F2CC2F /* PersistanceApp.swift in Sources */,
+				4AD2B9242C7E1D4C00F2CC2F /* CollegeList.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
