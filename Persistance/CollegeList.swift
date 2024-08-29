@@ -6,3 +6,16 @@
 //
 
 import Foundation
+import SwiftUI
+
+struct CollegeListView: View {
+    var body: some View {
+        VStack {
+            
+        }
+        }
+    }
+
+#Preview {
+    CollegeListView()
+}
